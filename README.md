@@ -27,10 +27,10 @@ Visualization Tool
 Tableau
 
 # Team members - Raindrop Analyst
-Nandana Renjith(Team Lead)
-Divya Jain 
-Tejaswini N
-Nimisha sahu
+Nandana Renjith(data preprocessing,modeling,evaluation and deployment)
+Divya Jain (Data visualisation via tableau)
+Tejaswini N (data fetching and cleaning)
+Nimisha sahu (ocumentation)
 # Pitch Video
 https://drive.google.com/file/d/1D40N7h6W8WJdxxAsH6WdITTL88uabOOa/view?usp=drive_link​
 
